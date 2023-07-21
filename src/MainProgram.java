@@ -2,7 +2,6 @@
 /**
  * My name : Mansour Ahmed Aldahri
  *  My email: Mansour.try@gmail.com
- *  ID : 2036538
  * section number : Cpcs-204-GA
  * title : KAU Vaccination Centers Management System
  * date : 07/10/2021
